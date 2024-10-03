@@ -144,8 +144,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/Aluno/Desktop/ProgramaOpengl1_v4/out/build/x64-Debug",
-		"source" : "C:/Users/Aluno/Desktop/ProgramaOpengl1_v4"
+		"build" : "C:/Users/gmerl/source/repos/pong-opengl/out/build/x64-Debug",
+		"source" : "C:/Users/gmerl/source/repos/pong-opengl"
 	},
 	"version" : 
 	{
