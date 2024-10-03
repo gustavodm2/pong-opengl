@@ -15,13 +15,13 @@ Instale as dependências necessárias (GLFW e GLEW).
 Compile o código utilizando um compilador compatível com OpenGL (como g++):
 
 ## Controles
-Jogador 1 (esquerda):
+### Jogador 1 (esquerda):
 
 W: Mover para cima
 
 S: Mover para baixo
 
-Jogador 2 (direita):
+### Jogador 2 (direita):
 
 Seta para cima: Mover para cima
 
